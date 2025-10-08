@@ -420,7 +420,9 @@ Hasil Tampilan Form
 ## Pertanyaan dan Tugas
 ### 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
 
-![foto](
+![foto](https://github.com/keeyyaaa/Lab3Web/blob/main/dropdown%20menu%20dan%20listbox.png)
+
+
 
 
 
